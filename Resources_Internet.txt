@@ -1,1 +1,2 @@
 MEAN Stack: https://medium.freecodecamp.org/building-a-chat-application-with-mean-stack-637254d1136d
+GET vs POST: https://www.diffen.com/difference/GET-vs-POST-HTTP-Requests
