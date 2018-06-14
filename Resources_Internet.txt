@@ -1,2 +1,7 @@
 MEAN Stack: https://medium.freecodecamp.org/building-a-chat-application-with-mean-stack-637254d1136d
+<<<<<<< HEAD
 GET vs POST: https://www.diffen.com/difference/GET-vs-POST-HTTP-Requests
+=======
+https://chatbotsmagazine.com/how-to-develop-a-chatbot-from-scratch-62bed1adab8c
+https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077
+>>>>>>> c2f959d334c7dc3a95e1826fff1e2af85712a9e9
